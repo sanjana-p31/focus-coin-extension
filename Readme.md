@@ -23,10 +23,10 @@ When coins reach zero, distracting sites are blocked automatically.
 - Chrome APIs: Tabs, Storage, Runtime Messaging
 
 ## Screenshots
-*(Add popup screenshot here)*  
 <img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/e6e3130b-a784-4b83-952c-4e62cda262e9" />
 
-*(Add blocked page screenshot here)*
+<img width="616" height="742" alt="image" src="https://github.com/user-attachments/assets/b82eb1e1-1d1a-4a04-9562-a17fab1fab2e" />
+
 
 ## Future Enhancements
 - User-customizable site lists
