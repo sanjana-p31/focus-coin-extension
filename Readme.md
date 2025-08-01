@@ -24,6 +24,8 @@ When coins reach zero, distracting sites are blocked automatically.
 
 ## Screenshots
 *(Add popup screenshot here)*  
+<img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/e6e3130b-a784-4b83-952c-4e62cda262e9" />
+
 *(Add blocked page screenshot here)*
 
 ## Future Enhancements
